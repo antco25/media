@@ -1,102 +1,101 @@
-[
-  {
-    "name": "Audiophile E-Commerce",
-    "description": "E-commerce website with products, categories, checkout and backend",
-    "liveLink": "https://p-audiophile.vercel.app/",
-    "gitLink": "https://github.com/antco25/p-audiophile",
-    "skills": [
-      "html",
-      "css",
-      "js",
-      "api"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/audiophile.png",
-  },
-  {
-    "name": "Kanban Task Management",
-    "description": "Task management app created with MERN stack",
-    "liveLink": "https://antcodev.ca/p-kanban",
-    "gitLink": "https://github.com/antco25/p-kanban",
-    "skills": [
-      "html",
-      "css",
-      "js",
-      "api"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/kanban.png",
-  },
-  {
-    "name": "Feedback Board",
-    "description": "Reddit-like app where users can post feedbacks, comments and upvotes",
-    "liveLink": "https://antcodev.ca/p-feedback",
-    "gitLink": "https://github.com/antco25/p-feedback",
-    "skills": [
-      "html",
-      "css",
-      "js",
-      "api"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/feedback.png",
-  },
-  {
-    "name": "MyTeam",
-    "description": "A complete 3-page desktop and mobile layout for the myteam homepage",
-    "liveLink": "https://antcodev.ca/p-myteam",
-    "gitLink": "https://github.com/antco25/p-myteam",
-    "skills": [
-      "html",
-      "css",
-      "js"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/myteam.png",
-  },
-  {
-    "name": "REST Countries",
-    "description": "Utilizing the REST Countries API, this app displays information about countries.",
-    "liveLink": "https://antcodev.ca/p-restcountry",
-    "gitLink": "https://github.com/antco25/p-restcountry",
-    "skills": [
-      "html",
-      "css",
-      "js",
-      "api"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/country.png",
-  },
-  {
-    "name": "Shortly",
-    "description": "Landing page demo. Utilizing the shrtcode API, user can create shortened URLs.",
-    "liveLink": "https://antco25.github.io/frontendmentor-4",
-    "gitLink": "https://github.com/antco25/frontendmentor-4",
-    "skills": [
-      "html",
-      "css",
-      "js",
-      "api"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/shortly.png",
-  },
-  {
-    "name": "Sneakers",
-    "description": "Product page demo for an e-commerce website complete with a shopping cart.",
-    "liveLink": "https://antcodev.ca/frontendmentor-6",
-    "gitLink": "https://github.com/antco25/frontendmentor-6",
-    "skills": [
-      "html",
-      "css",
-      "js"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/sneakers.png",
-  },
-  {
-    "name": "Loopstudios",
-    "description": "Landing page demo. An HTML and CSS layout exercise using Vue",
-    "liveLink": "https://antcodev.ca/frontendmentor-3",
-    "gitLink": "https://github.com/antco25/frontendmentor-3",
-    "skills": [
-      "html",
-      "css"
-    ],
-    "image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/loop.png",
-  }
+[{
+		"name": "Audiophile E-Commerce",
+		"description": "E-commerce website with products, categories, checkout and backend",
+		"liveLink": "https://p-audiophile.vercel.app/",
+		"gitLink": "https://github.com/antco25/p-audiophile",
+		"skills": [
+			"html",
+			"css",
+			"js",
+			"api"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/audiophile.png"
+	},
+	{
+		"name": "Kanban Task Management",
+		"description": "Task management app created with MERN stack",
+		"liveLink": "https://antcodev.ca/p-kanban",
+		"gitLink": "https://github.com/antco25/p-kanban",
+		"skills": [
+			"html",
+			"css",
+			"js",
+			"api"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/kanban.png"
+	},
+	{
+		"name": "Feedback Board",
+		"description": "Reddit-like app where users can post feedbacks, comments and upvotes",
+		"liveLink": "https://antcodev.ca/p-feedback",
+		"gitLink": "https://github.com/antco25/p-feedback",
+		"skills": [
+			"html",
+			"css",
+			"js",
+			"api"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/feedback.png"
+	},
+	{
+		"name": "MyTeam",
+		"description": "A complete 3-page desktop and mobile layout for the myteam homepage",
+		"liveLink": "https://antcodev.ca/p-myteam",
+		"gitLink": "https://github.com/antco25/p-myteam",
+		"skills": [
+			"html",
+			"css",
+			"js"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/myteam.png"
+	},
+	{
+		"name": "REST Countries",
+		"description": "Utilizing the REST Countries API, this app displays information about countries.",
+		"liveLink": "https://antcodev.ca/p-restcountry",
+		"gitLink": "https://github.com/antco25/p-restcountry",
+		"skills": [
+			"html",
+			"css",
+			"js",
+			"api"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/country.png"
+	},
+	{
+		"name": "Shortly",
+		"description": "Landing page demo. Utilizing the shrtcode API, user can create shortened URLs.",
+		"liveLink": "https://antco25.github.io/frontendmentor-4",
+		"gitLink": "https://github.com/antco25/frontendmentor-4",
+		"skills": [
+			"html",
+			"css",
+			"js",
+			"api"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/shortly.png"
+	},
+	{
+		"name": "Sneakers",
+		"description": "Product page demo for an e-commerce website complete with a shopping cart.",
+		"liveLink": "https://antcodev.ca/frontendmentor-6",
+		"gitLink": "https://github.com/antco25/frontendmentor-6",
+		"skills": [
+			"html",
+			"css",
+			"js"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/sneakers.png"
+	},
+	{
+		"name": "Loopstudios",
+		"description": "Landing page demo. An HTML and CSS layout exercise using Vue",
+		"liveLink": "https://antcodev.ca/frontendmentor-3",
+		"gitLink": "https://github.com/antco25/frontendmentor-3",
+		"skills": [
+			"html",
+			"css"
+		],
+		"image": "https://raw.githubusercontent.com/antco25/media/main/portfolio/loop.png"
+	}
 ]
