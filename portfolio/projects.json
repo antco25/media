@@ -1,6 +1,6 @@
 [{
 		"name": "Audiophile E-Commerce",
-		"description": "E-commerce website with products, categories, checkout and backend",
+		"description": "Fullstack e-commerce website made with Next.JS and Sanity for the backend CMS",
 		"liveLink": "https://p-audiophile.vercel.app/",
 		"gitLink": "https://github.com/antco25/p-audiophile",
 		"skills": [
@@ -26,7 +26,7 @@
 	},
 	{
 		"name": "Feedback Board",
-		"description": "Reddit-like app where users can post feedbacks, comments and upvotes",
+		"description": "Forum app where users can post feedbacks, comments and upvotes",
 		"liveLink": "https://antcodev.ca/p-feedback",
 		"gitLink": "https://github.com/antco25/p-feedback",
 		"skills": [
